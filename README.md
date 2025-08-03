@@ -19,5 +19,5 @@ Data analysis and machine learning project on the Titanic dataset. This project 
 - The model can achieve up to 85% accuracy on the validation dataset.
 
 ## Libraries Used
-- Pandas, Numpy, Matplotlib and Seaborn for data analysis and visualization
+- Pandas, Numpy, Matplotlib and Seaborn for data analysis and visualization.
 - Pytorch (mainly) and Sklearn (for setting up data) for model training.
