@@ -14,7 +14,7 @@ Data analysis and machine learning project on the Titanic dataset. This project 
 - This part of the project is focused on training a neural network to predict survival chances of Titanic passengers.
 - The model consist of 3 layers: An input layer, a hidden layer and an output layer.
 - Each layer has ReLU and BatchNorm functions.
-- The output is later passed onto the sigmoid function to calculate the final result.
+- The output is later passed to the sigmoid function to calculate the final result.
 - I used binary crossentropy as loss funtion and Adam as optimizer.
 - The model can achieve up to 86% accuracy on the validation dataset.
 
