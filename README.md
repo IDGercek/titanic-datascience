@@ -16,7 +16,7 @@ Data analysis and machine learning project on the Titanic dataset. This project 
 - Each layer has ReLU and BatchNorm funtions.
 - The output is later passed onto the sigmoid function to calculate the final result.
 - I used binary crossentropy as loss funtion and Adam as optimizer.
-- The model can achieve up to 85% accuracy on the validation dataset.
+- The model can achieve up to 86% accuracy on the validation dataset.
 
 ## Libraries Used
 - Pandas, Numpy, Matplotlib and Seaborn for data analysis and visualization.
